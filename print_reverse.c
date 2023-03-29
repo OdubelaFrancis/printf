@@ -8,7 +8,7 @@
  * @flags:  Calculates active flags
  * @width: get width
  * @precision: Precision specification
- * @size: Size specifier
+ * @size: size specifier
  * Return: Numbers of chars printed
  */
 
